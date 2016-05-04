@@ -17,3 +17,4 @@ checkEmail.sh
 - 
 timeTeller.sh
 - This script uses the 'date' command to get the hour in Eastern Standard Time.
+- 
